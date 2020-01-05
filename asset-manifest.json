@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/me/static/css/main.4b6dd1e6.chunk.css",
+    "main.js": "/me/static/js/main.0c291a02.chunk.js",
+    "main.js.map": "/me/static/js/main.0c291a02.chunk.js.map",
+    "runtime-main.js": "/me/static/js/runtime-main.2eae83fc.js",
+    "runtime-main.js.map": "/me/static/js/runtime-main.2eae83fc.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/me/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.b9452cd6.chunk.js": "/me/static/js/2.b9452cd6.chunk.js",
+    "static/js/2.b9452cd6.chunk.js.map": "/me/static/js/2.b9452cd6.chunk.js.map",
+    "index.html": "/me/index.html",
+    "precache-manifest.5b7f2e929437e523d04a68f0eb238b7b.js": "/me/precache-manifest.5b7f2e929437e523d04a68f0eb238b7b.js",
+    "service-worker.js": "/me/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/me/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.4b6dd1e6.chunk.css.map": "/me/static/css/main.4b6dd1e6.chunk.css.map",
+    "static/js/2.b9452cd6.chunk.js.LICENSE": "/me/static/js/2.b9452cd6.chunk.js.LICENSE",
+    "static/media/headshot.jpg": "/me/static/media/headshot.dd289d1c.jpg",
+    "static/media/Home.css": "/me/static/media/multiColor.e73dbe69.jpg",
+    "static/media/About.css": "/me/static/media/playstationConsole.a43c0e53.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2eae83fc.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.b9452cd6.chunk.js",
+    "static/css/main.4b6dd1e6.chunk.css",
+    "static/js/main.0c291a02.chunk.js"
+  ]
+}
